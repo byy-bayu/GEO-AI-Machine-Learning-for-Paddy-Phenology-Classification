@@ -10,5 +10,6 @@ This is the code implementations of methods and models proposed in paper **xxxx*
 
 ### Extra Files
 The trained model and sample images are also available at:
-projects/ee-bayuardianto104/assets/Dataset_S1_ARD_Indramayu_2024
-https://drive.google.com/file/d/1VirZvHdqMce4kKA3bD_w59hd7p3_Y7qI/view
+
+- Image dataset: projects/ee-bayuardianto104/assets/Dataset_S1_ARD_Indramayu_2024
+- Train sample: https://drive.google.com/file/d/1VirZvHdqMce4kKA3bD_w59hd7p3_Y7qI/view
